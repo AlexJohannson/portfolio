@@ -15,6 +15,7 @@ const AboutMeComponent = () => {
                     and asynchronous workflows. Transitioned from logistics to fullstack development through rigorous
                     self-education, IT courses, and hands-on architecture practice.
                 </p>
+
             </div>
         </div>
     );
