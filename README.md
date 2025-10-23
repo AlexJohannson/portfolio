@@ -57,7 +57,7 @@ Feel free to reach out — whether it’s for collaboration, feedback, or opport
 
 ## Tech Stack
 
-This portfolio is built with **React**, using modular components, custom styling, and responsive layouts. It reflects my ability to design professional interfaces, structure scalable codebases, and present technical work clearly.
+This portfolio is built with **React** and deploy on **Vercel**, using modular components, custom styling, and responsive layouts. It reflects my ability to design professional interfaces, structure scalable codebases, and present technical work clearly.
 
 
 
