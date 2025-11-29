@@ -12,8 +12,8 @@ const AboutMeComponent = () => {
                     production-grade platforms using Django, Django REST Framework, Python, Celery, Redis, WebSocket,
                     React, Next.js, Redux, and TypeScript. I’ve delivered real-time systems with tests, role-based access,
                     and responsive UIs. Skilled in bridging business logic and user experience through clean architecture
-                    and asynchronous workflows. Transitioned from logistics to fullstack development through rigorous
-                    self-education, IT courses, and hands-on architecture practice.
+                    and asynchronous workflows. Focused on developing reliable digital solutions and ready
+                    to apply skills in professional teams.
                 </p>
 
             </div>

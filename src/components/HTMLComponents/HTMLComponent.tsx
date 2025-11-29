@@ -20,37 +20,37 @@ const HtmlComponent = () => {
                     <div className='html-css-img'>
                         <img
                             src="/img/html-css/html-1.png"
-                            srcSet="/img/html-css/html-1.png 1x, /img/html-css/html-1@2x.png 2x"
+                            srcSet="/img/html-css/html-1.png"
                             alt="HTML5"
                             className="html-1"
                         />
                         <img
                             src="/img/html-css/html-2.png"
-                            srcSet="/img/html-css/html-2.png 1x, /img/html-css/html-2@2x.png 2x"
+                            srcSet="/img/html-css/html-2.png"
                             alt="HTML5"
                             className="html-2"
                         />
                         <img
                             src="/img/html-css/html-3.png"
-                            srcSet="/img/html-css/html-3.png 1x, /img/html-css/html-3@2x.png 2x"
+                            srcSet="/img/html-css/html-3.png"
                             alt="HTML5"
                             className="html-3"
                         />
                         <img
                             src="/img/html-css/html-4.png"
-                            srcSet="/img/html-css/html-4.png 1x, /img/html-css/html-4@2x.png 2x"
+                            srcSet="/img/html-css/html-4.png 1x"
                             alt="HTML5"
                             className="html-4"
                         />
                         <img
                             src="/img/html-css/html-5.png"
-                            srcSet="/img/html-css/html-5.png 1x, /img/html-css/html-5@2x.png 2x"
+                            srcSet="/img/html-css/html-5.png"
                             alt="HTML5"
                             className="html-6"
                         />
                         <img
                             src="/img/html-css/html-7.png"
-                            srcSet="/img/html-css/html-7.png 1x, /img/html-css/html-7@2x.png 2x"
+                            srcSet="/img/html-css/html-7.png"
                             alt="HTML5"
                             className="html-7"
                         />

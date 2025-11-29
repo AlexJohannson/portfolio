@@ -20,37 +20,37 @@ export const JavaScriptComponent = () => {
                     <div className='javascript-img'>
                         <img
                             src="/img/javascript/javascript-1.png"
-                            srcSet="/img/javascript/javascript-1.png 1x, /img/javascript/javascript-1@2x.png 2x"
+                            srcSet="/img/javascript/javascript-1.png"
                             alt="JavaScript"
                             className="JavaScript-1"
                         />
                         <img
                             src="/img/javascript/javascript-2.png"
-                            srcSet="/img/javascript/javascript-2.png 1x, /img/javascript/javascript-2@2x.png 2x"
+                            srcSet="/img/javascript/javascript-2.png"
                             alt="JavaScript"
                             className="JavaScript-2"
                         />
                         <img
                             src="/img/javascript/javascript-3.png"
-                            srcSet="/img/javascript/javascript-3.png 1x, /img/javascript/javascript-3@2x.png 2x"
+                            srcSet="/img/javascript/javascript-3.png"
                             alt="JavaScript"
                             className="JavaScript-3"
                         />
                         <img
                             src="/img/javascript/javascript-4.png"
-                            srcSet="/img/javascript/javascript-4.png 1x, /img/javascript/javascript-4@2x.png 2x"
+                            srcSet="/img/javascript/javascript-4.png"
                             alt="JavaScript"
                             className="JavaScript-4"
                         />
                         <img
                             src="/img/javascript/javascript-5.png"
-                            srcSet="/img/javascript/javascript-5.png 1x, /img/javascript/javascript-5@2x.png 2x"
+                            srcSet="/img/javascript/javascript-5.png"
                             alt="JavaScript"
                             className="JavaScript-5"
                         />
                         <img
                             src="/img/javascript/javascript-6.png"
-                            srcSet="/img/javascript/javascript-6.png 1x, /img/javascript/javascript-6@2x.png 2x"
+                            srcSet="/img/javascript/javascript-6.png"
                             alt="JavaScript"
                             className="JavaScript-6"
                         />

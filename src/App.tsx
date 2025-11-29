@@ -1,8 +1,8 @@
 import './App.css'
 import AboutMeComponent from "./components/AboutMeComponent/AboutMeComponent.tsx";
 import MyProjects from "./components/MyProjects/MyProjects.tsx";
-import SkillsComponenet from "./components/SkillsComponent/SkillsComponenet.tsx";
 import FooterComponent from "./components/FooterComponent/FooterComponent.tsx";
+import  SkillsComponent from "./components/SkillsComponent/SkillsComponenet.tsx";
 
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
         <div className='wrapper'>
             <AboutMeComponent />
             <MyProjects/>
-            <SkillsComponenet/>
+            <SkillsComponent/>
             <FooterComponent/>
         </div>
     </>

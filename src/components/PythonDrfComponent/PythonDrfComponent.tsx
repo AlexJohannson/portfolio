@@ -8,7 +8,7 @@ export const PythonDrfComponent = () => {
             <div className='python-component'>
                 <div className='text-python'>
                     <h2>AutoRia Clone — High-Load Vehicle Marketplace (Pet Project)</h2>
-                    <p>AutoRia Clone is a personal backend pet-project inspired by real-world vehicle marketplaces. I built it
+                    <p>AutoRia Clone is a backend project inspired by real-world vehicle marketplaces. I built it
                         from scratch to explore scalable backend architecture, real-time communication, and DevOps
                         orchestration. The goal was to simulate a production-grade platform capable of handling high
                         traffic, modular role management, and asynchronous workflows. Project Purpose - to design and
@@ -43,97 +43,97 @@ export const PythonDrfComponent = () => {
                     <div className='python-img'>
                         <img
                             src="/img/drf/drf-1.png"
-                            srcSet="/img/drf/drf-1.png 1x, /img/drf/drf-1@2x.png 2x"
+                            srcSet="/img/drf/drf-1.png"
                             alt="DRF"
                             className="DRF-1"
                         />
                         <img
                             src="/img/drf/drf-2.png"
-                            srcSet="/img/drf/drf-2.png 1x, /img/drf/drf-2@2x.png 2x"
+                            srcSet="/img/drf/drf-2.png"
                             alt="DRF"
                             className="DRF-2"
                         />
                         <img
                             src="/img/drf/drf-3.png"
-                            srcSet="/img/drf/drf-3.png 1x, /img/drf/drf-3@2x.png 2x"
+                            srcSet="/img/drf/drf-3.png"
                             alt="DRF"
                             className="DRF-3"
                         />
                         <img
                             src="/img/drf/drf-4.png"
-                            srcSet="/img/drf/drf-4.png 1x, /img/drf/drf-4@2x.png 2x"
+                            srcSet="/img/drf/drf-4.png"
                             alt="DRF"
                             className="DRF-4"
                         />
                         <img
                             src="/img/drf/drf-5.png"
-                            srcSet="/img/drf/drf-5.png 1x, /img/drf/drf-5@2x.png 2x"
+                            srcSet="/img/drf/drf-5.png"
                             alt="DRF"
                             className="DRF-5"
                         />
                         <img
                             src="/img/drf/drf-6.png"
-                            srcSet="/img/drf/drf-6.png 1x, /img/drf/drf-6@2x.png 2x"
+                            srcSet="/img/drf/drf-6.png"
                             alt="DRF"
                             className="DRF-6"
                         />
                         <img
                             src="/img/drf/drf-7.png"
-                            srcSet="/img/drf/drf-7.png 1x, /img/drf/drf-7@2x.png 2x"
+                            srcSet="/img/drf/drf-7.png"
                             alt="DRF"
                             className="DRF-7"
                         />
                         <img
                             src="/img/drf/drf-8.png"
-                            srcSet="/img/drf/drf-8.png 1x, /img/drf/drf-8@2x.png 2x"
+                            srcSet="/img/drf/drf-8.png"
                             alt="DRF"
                             className="DRF-8"
                         />
                         <img
                             src="/img/drf/drf-9.png"
-                            srcSet="/img/drf/drf-9.png 1x, /img/drf/drf-9@2x.png 2x"
+                            srcSet="/img/drf/drf-9.png"
                             alt="DRF"
                             className="DRF-9"
                         />
                         <img
                             src="/img/drf/drf-10.png"
-                            srcSet="/img/drf/drf-10.png 1x, /img/drf/drf-10@2x.png 2x"
+                            srcSet="/img/drf/drf-10.png"
                             alt="DRF"
                             className="DRF-10"
                         />
                         <img
                             src="/img/drf/drf-11.png"
-                            srcSet="/img/drf/drf-11.png 1x, /img/drf/drf-11@2x.png 2x"
+                            srcSet="/img/drf/drf-11.png"
                             alt="DRF"
                             className="DRF-11"
                         />
                         <img
                             src="/img/drf/drf-12.png"
-                            srcSet="/img/drf/drf-12.png 1x, /img/drf/drf-12@2x.png 2x"
+                            srcSet="/img/drf/drf-12.png"
                             alt="DRF"
                             className="DRF-12"
                         />
                         <img
                             src="/img/drf/drf-13.png"
-                            srcSet="/img/drf/drf-13.png 1x, /img/drf/drf-13@2x.png 2x"
+                            srcSet="/img/drf/drf-13.png"
                             alt="DRF"
                             className="DRF-13"
                         />
                         <img
                             src="/img/drf/drf-14.png"
-                            srcSet="/img/drf/drf-14.png 1x, /img/drf/drf-14@2x.png 2x"
+                            srcSet="/img/drf/drf-14.png"
                             alt="DRF"
                             className="DRF-14"
                         />
                         <img
                             src="/img/drf/drf-15.png"
-                            srcSet="/img/drf/drf-15.png 1x, /img/drf/drf-15@2x.png 2x"
+                            srcSet="/img/drf/drf-15.png"
                             alt="DRF"
                             className="DRF-15"
                         />
                         <img
                             src="/img/drf/drf-16.png"
-                            srcSet="/img/drf/drf-16.png 1x, /img/drf/drf-16@2x.png 2x"
+                            srcSet="/img/drf/drf-16.png"
                             alt="DRF"
                             className="DRF-16"
                         />

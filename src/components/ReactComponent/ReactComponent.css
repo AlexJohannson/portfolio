@@ -1,8 +1,7 @@
 .react-component {
-    width: 95%;
-    margin: 0 auto;
+    width: 100%;
     border: 2px solid #f0e68c;
-    background-color: rgba(255, 250, 205, 0.6);
+    background-color: lemonchiffon;
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
     padding: 2rem 3rem;
@@ -85,10 +84,12 @@
 
     .react-img img {
         max-width: 100%;
+        height: auto;
+        object-fit: contain;
     }
 
     .react-img img:hover {
-        transform: scale(2.40);
+        transform: scale(1.45);
     }
 
     .text-react{

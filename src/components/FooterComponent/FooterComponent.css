@@ -1,8 +1,8 @@
 .footer-component {
-    width: 91%;
+    width: 100%;
     margin: 40px auto 0 auto;
     border: 2px solid #f0e68c;
-    background-color: rgba(255, 250, 205, 0.6);
+    background-color: lemonchiffon;
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
     padding: 2rem 3rem;

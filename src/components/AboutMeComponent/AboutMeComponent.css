@@ -1,5 +1,5 @@
 .about-me-container {
-    width: 90%;
+    width: 100%;
     margin: 0 auto;
     display: flex;
     align-items: center;
@@ -8,7 +8,7 @@
     gap: 14rem;
     flex-wrap: wrap;
     border: 2px solid #f0e68c;
-    background-color: rgba(255, 250, 205, 0.6);
+    background-color: lemonchiffon;
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
 }

@@ -30,55 +30,55 @@ export const NextComponent = () => {
                     <div className='next-img'>
                         <img
                             src="/img/next/next-1.png"
-                            srcSet="/img/next/next-1.png 1x, /img/next/next-1@2x.png 2x"
+                            srcSet="/img/next/next-1.png"
                             alt="Next"
                             className="Next-1"
                         />
                         <img
                             src="/img/next/next-2.png"
-                            srcSet="/img/next/next-2.png 1x, /img/next/next-2@2x.png 2x"
+                            srcSet="/img/next/next-2.png"
                             alt="Next"
                             className="Next-2"
                         />
                         <img
                             src="/img/next/next-3.png"
-                            srcSet="/img/next/next-3.png 1x, /img/next/next-3@2x.png 2x"
+                            srcSet="/img/next/next-3.png"
                             alt="Next"
                             className="Next-3"
                         />
                         <img
                             src="/img/next/next-4.png"
-                            srcSet="/img/next/next-4.png 1x, /img/next/next-4@2x.png 2x"
+                            srcSet="/img/next/next-4.png"
                             alt="Next"
                             className="Next-4"
                         />
                         <img
                             src="/img/next/next-5.png"
-                            srcSet="/img/next/next-5.png 1x, /img/next/next-5@2x.png 2x"
+                            srcSet="/img/next/next-5.png"
                             alt="Next"
                             className="Next-5"
                         />
                         <img
                             src="/img/next/next-6.png"
-                            srcSet="/img/next/next-6.png 1x, /img/next/next-6@2x.png 2x"
+                            srcSet="/img/next/next-6.png"
                             alt="Next"
                             className="Next-6"
                         />
                         <img
                             src="/img/next/next-7.png"
-                            srcSet="/img/next/next-7.png 1x, /img/next/next-7@2x.png 2x"
+                            srcSet="/img/next/next-7.png"
                             alt="Next"
                             className="Next-7"
                         />
                         <img
                             src="/img/next/next-8.png"
-                            srcSet="/img/next/next-8.png 1x, /img/next/next-8@2x.png 2x"
+                            srcSet="/img/next/next-8.png"
                             alt="Next"
                             className="Next-8"
                         />
                         <img
                             src="/img/next/next-9.png"
-                            srcSet="/img/next/next-9.png 1x, /img/next/next-9@2x.png 2x"
+                            srcSet="/img/next/next-9.png"
                             alt="Next"
                             className="Next-9"
                         />

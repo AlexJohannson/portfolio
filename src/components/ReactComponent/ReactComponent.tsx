@@ -27,55 +27,55 @@ export const ReactComponent = () => {
                     <div className='react-img'>
                         <img
                             src="/img/react/react-1.png"
-                            srcSet="/img/react/react-1.png 1x, /img/react/react-1@2x.png 2x"
+                            srcSet="/img/react/react-1.png"
                             alt="React"
                             className="React-1"
                         />
                         <img
                             src="/img/react/react-2.png"
-                            srcSet="/img/react/react-2.png 1x, /img/react/react-2@2x.png 2x"
+                            srcSet="/img/react/react-2.png"
                             alt="React"
                             className="React-2"
                         />
                         <img
                             src="/img/react/react-3.png"
-                            srcSet="/img/react/react-3.png 1x, /img/react/react-3@2x.png 2x"
+                            srcSet="/img/react/react-3.png"
                             alt="React"
                             className="React-3"
                         />
                         <img
                             src="/img/react/react-4.png"
-                            srcSet="/img/react/react-4.png 1x, /img/react/react-4@2x.png 2x"
+                            srcSet="/img/react/react-4.png"
                             alt="React"
                             className="React-4"
                         />
                         <img
                             src="/img/react/react-5.png"
-                            srcSet="/img/react/react-5.png 1x, /img/react/react-5@2x.png 2x"
+                            srcSet="/img/react/react-5.png"
                             alt="React"
                             className="React-5"
                         />
                         <img
                             src="/img/react/react-6.png"
-                            srcSet="/img/react/react-6.png 1x, /img/react/react-6@2x.png 2x"
+                            srcSet="/img/react/react-6.png"
                             alt="React"
                             className="React-6"
                         />
                         <img
                             src="/img/react/react-7.png"
-                            srcSet="/img/react/react-7.png 1x, /img/react/react-7@2x.png 2x"
+                            srcSet="/img/react/react-7.png"
                             alt="React"
                             className="React-7"
                         />
                         <img
                             src="/img/react/react-8.png"
-                            srcSet="/img/react/react-8.png 1x, /img/react/react-8@2x.png 2x"
+                            srcSet="/img/react/react-8.png"
                             alt="React"
                             className="React-8"
                         />
                         <img
                             src="/img/react/react-9.png"
-                            srcSet="/img/react/react-9.png 1x, /img/react/react-9@2x.png 2x"
+                            srcSet="/img/react/react-9.png"
                             alt="React"
                             className="React-9"
                         />

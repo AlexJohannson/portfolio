@@ -11,6 +11,7 @@ export const SkillsComponent = () => {
         { name: 'JavaScript', src: '/img/icons/javascript.png' },
         { name: 'TypeScript', src: '/img/icons/typescript.png' },
         { name: 'MongoDB', src: '/img/icons/mongo.png' },
+        {name: 'My SQL', src: '/img/icons/my_sql.png' },
         { name: 'React', src: '/img/icons/react.png' },
         { name: 'Next.js', src: '/img/icons/nextjs.png' },
         { name: 'Redux', src: '/img/icons/redux.png' },
