@@ -22,6 +22,10 @@ export const SkillsComponent = () => {
         { name: 'RestAPI', src: '/img/icons/api.png' },
         { name: 'Swagger', src: '/img/icons/swagger.png' },
         { name: 'Postman', src: '/img/icons/postman.png' },
+        {name: 'IntelliJ IDEA', src: '/img/icons/intellij_idea.png' },
+        {name: 'PyCharm', src: '/img/icons/pycharm.png' },
+        {name: 'WebStorm', src: '/img/icons/webstorm.png' },
+        {name: 'VS Code', src: '/img/icons/vscode.png' },
     ];
 
     return (

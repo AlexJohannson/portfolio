@@ -7,7 +7,7 @@ export const PythonDrfComponent = () => {
         <>
             <div className='python-component'>
                 <div className='text-python'>
-                    <h2>AutoRia Clone — High-Load Vehicle Marketplace (Pet Project)</h2>
+                    <h2>AutoRia Clone — High-Load Vehicle Marketplace Project</h2>
                     <p>AutoRia Clone is a backend project inspired by real-world vehicle marketplaces. I built it
                         from scratch to explore scalable backend architecture, real-time communication, and DevOps
                         orchestration. The goal was to simulate a production-grade platform capable of handling high
@@ -18,7 +18,7 @@ export const PythonDrfComponent = () => {
                         scalable systems. It’s a showcase of my ability to build complex platforms with real-time
                         features and production-ready DevOps setups.
                     </p>
-                    <h4>Technologies Used:</h4>
+                    <h4>Technologies I Used:</h4>
                     <h3>Frontend:</h3>
                     <p>React</p>
                     <p>React DOM</p>
