@@ -4,6 +4,7 @@ export const SkillsComponent = () => {
     const skills = [
         { name: 'Python', src: '/img/icons/python.png' },
         { name: 'Java', src: '/img/icons/java.png' },
+        {name: 'Linux', src: '/img/icons/linux-icon.png'},
         { name: 'HTML', src: '/img/icons/html.png' },
         { name: 'CSS', src: '/img/icons/css.png' },
         { name: 'Git', src: '/img/icons/git.png' },

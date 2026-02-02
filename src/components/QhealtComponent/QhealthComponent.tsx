@@ -14,11 +14,12 @@ export const QhealthComponent = () => {
                     <h3>Key Features:</h3>
                     <p>Role-based system: Superuser, Admin, Doctor, Operator, Pharmacist, Patient</p>
                     <p>User management: registration, authentication (JWT), profile updates, blocking, role
-                        assignment</p>
+                        assignment, sick leaves - PDF generation. Created a weather widget that receive data via the WEATHER API.</p>
                     <h4>Medical workflows:</h4>
                     <p>Booking diagnostics and doctor visits</p>
                     <p>Patient journals (medical records)</p>
                     <p>Prescription management</p>
+                    <p>Sick Leave - PDF-generation</p>
                     <h4>Data handling:</h4>
                     <p>Pagination and filtering for all lists</p>
                     <p>Real-time updates via WebSockets (diagnostics, bookings, journals, prescriptions)</p>
@@ -46,6 +47,7 @@ export const QhealthComponent = () => {
                     <p>Django REST Framework;</p>
                     <p>JWT Authentication (Simple JWT);</p>
                     <p>Celery + Redis;</p>
+                    <p>Cloudinary;</p>
                     <p>MySQL;</p>
                     <p>Channels + Daphne + WebSocket;</p>
                     <p>DRF-YASG (Swagger);</p>
@@ -53,6 +55,8 @@ export const QhealthComponent = () => {
                     <p>Docker / Docker Compose;</p>
                     <p>Poetry;</p>
                     <p>Nginx;</p>
+                    <p>MySQL database - deployment and storage on Aiven</p>
+                    <p>PDF files storage on Cloudinary</p>
                     <h4>Docker services:</h4>
                     <p>web: Django + Daphne (ASGI) server;</p>
                     <p>db: MySQL;</p>
