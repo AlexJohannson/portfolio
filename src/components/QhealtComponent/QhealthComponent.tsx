@@ -9,7 +9,7 @@ export const QhealthComponent = () => {
                     <p>QHealth is a fullstack medical institution management system built with Django REST Framework
                         (DRF) on the backend and React on the frontend. It provides secure role-based access and
                         real-time functionality for booking diagnostics, doctor visits, managing patient journals
-                        and prescriptions.
+                        prescriptions and sick leaves.
                     </p>
                     <h3>Key Features:</h3>
                     <p>Role-based system: Superuser, Admin, Doctor, Operator, Pharmacist, Patient</p>
