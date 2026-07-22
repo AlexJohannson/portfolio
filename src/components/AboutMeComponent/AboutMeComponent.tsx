@@ -5,19 +5,21 @@ const AboutMeComponent = () => {
         <div className='about-me-container'>
             <img src="/img/my-photo/oleksandr.png" className='about-me-img' alt="Oleksandr" />
             <div className='about-me-text'>
-                <h1>Hello World! I am Oleksandr Mekhed</h1>
-                <h2>Junior Fullstack Developer</h2>
+                <h1>Hello World! I am Oleksandr</h1>
+                <h2>Fullstack Developer</h2>
                 <p>
-                    Fullstack developer with a backend-first mindset and hands-on experience building production-grade
-                    platforms. I work confidently with Django, Django REST Framework, FastAPI, Celery, Redis, WebSockets,
-                    Docker, React, Next.js, Redux and TypeScript.
+                    I am backend‑oriented Fullstack Developer with hands‑on experience building production‑grade
+                    systems using Django, Django REST Framework, FastAPI, Celery, Redis, WebSockets, Docker, React,
+                    Next.js, Redux and TypeScript.
                     <br /><br />
-                    I’ve delivered systems featuring real-time communication, role-based access, asynchronous workflows,
-                    PDF generation and fully containerized environments. My focus is clean architecture, reliable backend
-                    logic and seamless integration between business rules and user experience.
+                    I focus on designing clean backend architecture, implementing reliable business logic and ensuring
+                    seamless integration between API layers and modern frontend frameworks. My project experience
+                    includes real‑time communication features, role‑based access control, asynchronous task pipelines,
+                    PDF generation and fully containerized deployments.
                     <br /><br />
-                    I’m driven by building practical, maintainable solutions and I’m ready to apply my skills in a
-                    professional engineering team.
+                    I build practical, maintainable solutions and enjoy working on systems where correctness,
+                    performance and clarity of implementation matter. I’m ready to contribute to real products,
+                    collaborate with experienced engineers and continue growing as a backend‑driven fullstack developer.
                 </p>
             </div>
 
